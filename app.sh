@@ -1,3 +1,8 @@
 #!/bin/bash
-echo "Hello from dynamically tagged Docker image built by Jenkins"
-date
+
+echo "Vyomanant CI/CD Deployment Successful"
+
+while true
+do
+  sleep 60
+done
