@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "your-dockerhub-username/jenkins-docker-demo"
+        IMAGE_NAME = "vaacademy/jenkins-docker-demo"
         IMAGE_TAG  = "latest"
     }
 
